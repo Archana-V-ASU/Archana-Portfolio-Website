@@ -1,0 +1,155 @@
+
+.card {border-radius: 0; margin-left: 500px; margin-right: 500px; margin-top: 10px; margin-bottom: 30px; border-width: 0;}
+
+
+.VT-line-NB { width: 2px; height: 50px;; background-color: silver; margin-left: 50px;}
+        .VT-MAIN { width: 2px; height: 500px;; background-color: silver; margin-right: 50px;}
+
+        .ATitle {
+            font-size: 30px;
+            padding: 60px;
+            padding-left: 100px;
+            font-family: Arial, Helvetica, sans-serif;
+            color: white
+        }
+
+
+
+        .Gtitle {
+            font-size: 30px;
+            padding: 60px;
+            font-family: Arial, Helvetica, sans-serif;
+            color: gray
+        }
+
+        .ABody {
+            font-size: medium;
+            padding-left: 100px;
+            padding-bottom: 25px;
+            font-family: Arial, Helvetica, sans-serif;
+            color: white;
+        }
+        
+    
+        .TB-Line {border-bottom: 2px; border-top: 2px;
+            border-left: 0; border-right: 0; 
+            border-color: aliceblue; 
+            border-style: solid;}
+
+
+
+        .HB-Line {border-bottom: 2px; border-top: 0px;
+            border-left: 0; border-right: 0; 
+            border-color: aliceblue; 
+            border-style: solid;}
+
+        /* .Line-Left-img {
+            border-right: 2px; border-top: 0px;
+            border-left: 0; 
+            border-color: aliceblue; 
+            border-style: solid;
+        } */
+
+
+        .LIF {
+            float: right;
+        }
+
+        .Margin-title {
+            margin-top: 100px;
+        }
+
+
+
+        .P6 {
+            padding-left: 80px;
+        }
+
+
+        li {
+            float: right;
+        }
+
+        .img-H {
+            padding: 0;
+            width: 35vw;
+            display: block;
+            margin: 0;
+            transition: 200ms ease-in;
+        }
+        .img-H:hover {
+            scale: 1.05;
+        }
+
+
+        .TDH {
+            padding: 0;
+            width: 35vw;
+            display: block;
+            margin: 0;
+        }
+    
+
+        .static-35 {
+            padding: 0;
+            width: 35vw;
+            display: block;
+            margin: 0;}
+
+
+
+        .CON-IM {width: 7vw; margin-left: 90px; display: block;}
+        .CON-IM:hover {scale: 1.05;}
+
+
+        .BG-IMG {
+        background-image: url(TRY-LINE.jpg);}
+
+        .BG-DOTS {background-image: url(TimeLine-bg.jpg);}
+
+
+        .Pb7 {padding-bottom: 60px;} 
+        .Pt7 {padding-top: 70px;}
+
+        .Pb8 {padding-bottom: 80px;}
+        .Pt8 {padding-top: 80px;}
+        .PR8 {padding-right: 150px;}
+
+        .Port-half {width: 50vw;}
+        /* .Port-half:hover {scale:1.05} */
+
+
+        .w3-animate-left {
+            transition: 60ms ease-in;
+            animation-duration: 3s;
+        }
+
+        .L-IM-H {padding: 0;}
+        .L-IM-H:hover {scale: 1.05;}
+
+
+        .w3-animate-left:hover {scale: 1.05;}
+
+
+
+        /* SKILLS SECTION */
+        .front-img {
+            position: relative;
+            z-index: 2;
+            top: 115px;
+            left: -80px;
+            }
+    
+            .front-img:hover {scale: 1.1;}
+    
+            .front-text-block {position: relative;
+            z-index: 3;}
+    
+            .back-img {
+            position: relative;
+            z-index: 1;
+            top:0;
+            left: -12px;
+            }
+
+        /* .img-H:hover {width: 40vw; display: block; padding: 0; margin: 0;} */
